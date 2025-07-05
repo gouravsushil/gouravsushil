@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushil Gourav</h1>
-<h3 align="center">A passionate frontend developer and budding Data scientist from India</h3>
+<h3 align="center">Frontend developer skilled in the MERN stack, exploring Data Science and AI. Currently expanding into Java development to build robust full-stack and enterprise-level applications.</h3>
 <img src='https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg' align='right' width='300' alt='coding'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravsushil&label=Profile%20views&color=0e75b6&style=flat" alt="gouravsushil" /> </p>
